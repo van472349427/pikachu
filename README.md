@@ -5,6 +5,7 @@
 # 类库
 wxpy：微信相关
 flask：restful接口
+mongodb：NoSql
 
 # 功能模块
 1.用户管理：外部系统用户微信号的维护
@@ -14,3 +15,4 @@ flask：restful接口
 # 参考文档
 https://wxpy.readthedocs.io/zh/latest/
 http://docs.jinkan.org/docs/flask/
+https://www.runoob.com/python3/python-mongodb.html
